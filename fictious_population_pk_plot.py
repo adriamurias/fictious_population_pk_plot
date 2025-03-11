@@ -96,5 +96,5 @@ labels.append('Observed data')
 ax.legend(handles=handles, labels=labels)
 
 #plt.legend()
-plt.savefig("C:/Users/murias/OneDrive/Adrià Murias Closas/Feina/Hospital Clínic/Doctorat/Articles/Review/Figures/final/fictious_nca_plot.png", dpi=300)
+plt.savefig("fictious_pop_pk_plot.png", dpi=300)
 plt.show()
